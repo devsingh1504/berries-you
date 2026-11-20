@@ -417,7 +417,7 @@ function Hero() {
           {/* glow */}
           <div className="absolute inset-4 rounded-full bg-gradient-to-br from-berry/30 via-grape/20 to-blue/30 blur-2xl" />
           {/* rotating dotted ring */}
-          <div className="absolute inset-3 animate-spinslow rounded-full border-2 border-dashed border-berry/40 sm:inset-0" />
+          <div className="absolute inset-3  rounded-full border-2 border-dashed border-berry/40 sm:inset-0" />
 
           {/* main arch */}
           <div className="absolute left-1/2 top-6 z-10 -translate-x-1/2 sm:top-8">
